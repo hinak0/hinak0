@@ -4,4 +4,4 @@
 
 ### My Blog
 
-[一个博客](https://hinak0.github.io/)
+[ONE NOTE](https://hinak0.github.io/)
