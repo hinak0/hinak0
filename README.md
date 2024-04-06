@@ -4,4 +4,4 @@
 
 ### My Blog
 
-[ONE NOTE](https://hinak0.site/)
+[ONE NOTE](https://hinak0.pages.dev/)
